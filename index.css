@@ -1,31 +1,13 @@
 body{
     background-color: #272822
 }
-.upper_half{
-    top: 0;
-    overflow: hidden;
-    position: fixed;
-    height: 93%;
-    width: 100%
-}
-.lower_half{
-    bottom: 0;
-    padding: 0%;
-    margin: 0%;
-    text-align: right;
-    right: 2%;
-    overflow: hidden;
-    position: fixed;
-    height: 7%;
-    width: 100%;
-}
 .left{
     overflow: hidden;
     padding: 0%;
     margin: 0%;
     left: 0;
     position: fixed;
-    height: 90%;
+    height: 92%;
     width: 80%;
 }
 .right{
@@ -34,7 +16,7 @@ body{
     text-align: center;
     right: 1%;
     position: fixed;
-    height: 65%;
+    height: 80%;
     width: 20%;
 }
 #cover{
